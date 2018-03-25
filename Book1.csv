@@ -1,0 +1,3 @@
+docker pull gcr.io/google-containers/echoserver:1.8
+docker pull eu.gcr.io/gardener-project/gardener/machine-controller-manager:0.1.0-0f9d4de017c78f550f1153b83dc70807855df396
+docker pull gcr.io/google-containers/defaultbackend:1.0
